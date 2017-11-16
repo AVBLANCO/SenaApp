@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="text_hint_completo">text_hint_completo</string>
+    <string name="text_hint_contrasena">text_hint_contrasena</string>
+    <string name="text_hint_confirmarContra">text_hint_confirmarContra</string>
+</resources>

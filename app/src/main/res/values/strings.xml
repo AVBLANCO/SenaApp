@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">SenaGram</string>
+    <string name="title_activity_refrencia">RefrenciaActivity</string>
+    <string name="text_hint_user"> Nombre de Usuario</string>
+    <string name="text_hint_correo"> Correo Usuario</string>
+    <string name="text_hint_Pass"> Contraseña</string>
+    <string name="text_btn_login">Ingresar</string>
+    <string name="txtNoHaveAccount">No tienes cuenta? </string>
+    <string name="txtCreateAccount">Crear una cuenta!</string>
+    <string name="text_hint_completo">Digite su nombre y apellidos</string>
+    <string name="text_hint_contrasena">Digite una contraseña</string>
+    <string name="text_hint_confirmarContra">Confirmar contraseña</string>
+    <string name="txt_Crear_Cuenta"> Crear Cuenta</string>
+    <string name="user_name_card">Jesualdo Morantes</string>
+    <string name="time_world_card">Hace</string>
+    <string name="time_card">7 Días</string>
+    <string name="like_picture">37 Me gusta</string>
+    <string name="tab_find">Buscar</string>
+    <string name="tab_profile">Perfil</string>
+    <string name="tab_home">Inicio</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
